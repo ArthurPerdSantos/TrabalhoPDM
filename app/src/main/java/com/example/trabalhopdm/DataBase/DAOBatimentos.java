@@ -32,7 +32,7 @@ public class DAOBatimentos {
 
     }
 
-    public void Query(String key, final RetornoQuerys retorno) {
+    public void QueryPegaDadosModel(String key, final RetornoQuerys retorno) {
         HashMap<String, String> map = new HashMap<String, String>();
         ArrayList<String> list = new ArrayList<>();
         DatabaseReference ref = FirebaseDatabase.getInstance().getReference().child(BatimentosModel.class.getSimpleName()).child(key);
