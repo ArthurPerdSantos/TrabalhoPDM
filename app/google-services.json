@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903903608476",
+    "project_id": "saudehoje-224dc",
+    "storage_bucket": "saudehoje-224dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903903608476:android:751cecede3792f1fd67759",
+        "android_client_info": {
+          "package_name": "com.example.trabalhopdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903903608476-s5nmso0fu54q4p7jffls76k7d4uqiisg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAZhKSogb26lVjTiBzcQLMifXWjETfs9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903903608476-s5nmso0fu54q4p7jffls76k7d4uqiisg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

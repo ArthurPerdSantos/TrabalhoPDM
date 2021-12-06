@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Trabalho PDM</string>
+    <string name="senha">Senha</string>
+    <string name="Usuario">Nome do Usuário</string>
+    <string name="login">Entrar</string>
+    <string name="codigo_segunda_etapa">Código</string>
+    <string name="conf_codigo">Confirmar código</string>
+    <string name="Cadastro">Criar Cadastro</string>
+    <string name="cadastrar">Confirmar Cadastro</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="idade">Idade</string>
+    <string name="email">Email</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="trab_pdm">Saude Hoje</string>
+    <string name="verifica_cadastro">Já possui cadastro?</string>
+    <string name="fazer_login">Já possui uma conta? \nAcesse</string>
+    <string name="sucesso_cadastro">Cadastro feito com sucesso</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="numero">Por favor, informe o número do seu telefone</string>
+    <string name="telefone">(11) 99999–9999</string>
+    <string name="confimar_numero">Confirmar número</string>
+    <string name="instrucoes">Após informar o número e pressionar o botão a abaixo, você receberá um SMS com um código, para permitir o login.</string>
+    <string name="solicitao_dados">Selecione os dados a serem informados ou verifique o status da sua saúde.</string>
+    <string name="inserir_vacinas">Vacinas Covid</string>
+    <string name="pressao">Pressão arterial</string>
+    <string name="batimentos">Batimentos cardíacos</string>
+    <string name="dados_pessoais">Dados Pessoais</string>
+    <string name="consulta">Sua Saúde</string>
+    <string name="sair">Sair</string>
+    <string name="dica_idade">22</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="peso_dica">87 Kg</string>
+    <string name="altura_dica">172,3 cm</string>
+    <string name="salvar_dados">Salvar dados</string>
+    <string name="mostrar_senha">Mostrar senhas</string>
+    <string name="dados_vacinas_covid">Vacinação COVID</string>
+    <string name="dose1">Primeira dose</string>
+    <string name="data">Data que foi aplicada</string>
+    <string name="laboratorio">Laboratório</string>
+    <string name="dose2">Segunda dose</string>
+    <string name="dica_data">dd/mm/aaaa</string>
+    <string name="laboratorio_dica">Nome laboratório</string>
+    <string name="nome_vacina">Nome da vacina tomada</string>
+    <string name="tipo_vacina">Coronavac, Pfizer, etc.</string>
+    <string name="dose">Primeira, segunda ou terceira</string>
+    <string name="numero_dose">Qual foi a dose tomada</string>
+    <string name="adicionar_outra">Adicionar outra dose</string>
+    <string name="medicao_batimentos">Numero de batimentos identificados</string>
+    <string name="batimentos_valor">60 bpm</string>
+    <string name="valor_para_alerta">Valor limite para controle do batimento</string>
+    <string name="pressao_sistolica">Pressão Arterial Sistólica</string>
+    <string name="pressao_diastolica">Pressão Arterial Diastólica</string>
+    <string name="valor">105</string>
+    <string name="valor_diasto">79</string>
+    <string-array name="categoria_dose">
+        <item>Primeira</item>
+        <item>Segunda</item>
+        <item>Terceira</item>
+    </string-array>
+    <string name="title_activity_saude">SaudeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dados">Situação da sua saúde</string>
+    <string name="IMC">IMC (Índice de massa corporal)</string>
+    <string name="vacina">Status Vacinação</string>
+</resources>

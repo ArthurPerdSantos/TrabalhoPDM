@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="30dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="20dp"
+    android:layout_marginBottom="20dp"
+    android:orientation="vertical"
+    tools:context=".activity.LoginActivity"
+    tools:ignore="Deprecated,ExtraText">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/solicitao_dados"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/dados_pessoais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dados_pessoais"/>
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/vacinas_covid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/inserir_vacinas"/>
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/pressao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pressao"/>
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/batimentos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/batimentos"/>
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/consulta_dados"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/consulta"/>
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/deslogar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sair"/>
+
+
+
+
+</LinearLayout>
